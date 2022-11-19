@@ -1,0 +1,15 @@
+OK so this is working now. You need to drop this directory into your content directory (not sure where that is on mac).
+
+The reason the movement wasn't working was due to incompatible animation sets so I moved the speed config over to BPdemo1.
+
+I also added a nice little sprint speedboost to make BB feel a bit faster. 
+
+In order to implement search for the following in the Information directory of CompleteRPG.
+Replace the following files when you find them
+
+1. DT_Speed - controls the speed data for the main character
+
+2. E_WalkState - controls movement speed catagories. I have added a HogRun category. 
+
+Once that's done you should just be able to run it. Shift is sprint. I think it may need to be faster. LMK. 
+(for some unknown reason walk is set to the default movement speed and I cannot find it for the life of me.)
