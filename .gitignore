@@ -17,3 +17,4 @@ CompleteRPG/*
 
 CompleteRPG/Blueprints/*
 !CompleteRPG/Blueprints/Information/
+.DS_Store
